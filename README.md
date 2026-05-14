@@ -11,44 +11,6 @@ I care about clean architecture, performance, and writing code that holds up as 
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**  
-JavaScript, TypeScript
-
-**Frontend**  
-React, Next.js, HTML, CSS, Tailwind
-
-**Backend**  
-Node.js, Express
-
-**Database**  
-MongoDB, PostgreSQL
-
-**Tools & Practices**  
-Git, REST APIs, Docker (basic), CI/CD (basic), Unit Testing
-
----
-
-## 📌 What I Focus On
-- Writing clean, readable, and maintainable code  
-- Designing scalable backend systems  
-- Building efficient and predictable APIs  
-- Improving performance and avoiding bottlenecks early  
-- Keeping codebases structured and easy to work with  
-
----
-
-## 📫 Contact
-- Email: asadpbg69@gmail.com  
-- LinkedIn: www.linkedin.com/in/asadullahsharif 
-
----
-
-## ⚡ Philosophy
-Good code is not just about making things work — it’s about making them understandable, scalable, and reliable over time.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -87,3 +49,22 @@ Good code is not just about making things work — it’s about making them unde
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge\&logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge\&logo=githubactions)
 
+---
+
+## 📌 What I Focus On
+- Writing clean, readable, and maintainable code  
+- Designing scalable backend systems  
+- Building efficient and predictable APIs  
+- Improving performance and avoiding bottlenecks early  
+- Keeping codebases structured and easy to work with  
+
+---
+
+## 📫 Contact
+- Email: asadpbg69@gmail.com  
+- LinkedIn: www.linkedin.com/in/asadullahsharif 
+
+---
+
+## ⚡ Philosophy
+Good code is not just about making things work — it’s about making them understandable, scalable, and reliable over time.
