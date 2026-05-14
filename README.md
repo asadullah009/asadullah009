@@ -48,4 +48,42 @@ Git, REST APIs, Docker (basic), CI/CD (basic), Unit Testing
 ## ⚡ Philosophy
 Good code is not just about making things work — it’s about making them understandable, scalable, and reliable over time.
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge\&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge\&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=mysql)
+![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge\&logo=mongodb)
+
+### Stack
+
+![MERN Stack](https://img.shields.io/badge/MERN-000000?style=for-the-badge\&logo=mongodb)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge\&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge\&logo=githubactions)
+
