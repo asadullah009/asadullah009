@@ -47,3 +47,5 @@ Git, REST APIs, Docker (basic), CI/CD (basic), Unit Testing
 
 ## ⚡ Philosophy
 Good code is not just about making things work — it’s about making them understandable, scalable, and reliable over time.
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
