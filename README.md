@@ -45,7 +45,11 @@ I care about clean architecture, performance, and writing code that holds up as 
 
 ## 📫 Contact
 - Email: asadpbg69@gmail.com  
-- LinkedIn: www.linkedin.com/in/asadullahsharif 
+- LinkedIn: www.linkedin.com/in/asadullahsharif
+- WhatsApp: +92 317 4260269  
+- Phone: +92 317 4260269
+- Portfolio: [https://yourportfolio.com ](https://asadullah-dev.vercel.app/) 
+- GitHub: https://github.com/asadullah009  
 
 ---
 
